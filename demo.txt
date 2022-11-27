@@ -1,9 +1,8 @@
 # Open this link for DataStax Cassandra
 http://surl.li/bwzmt
 
-
 {
-  "clientID": "UHiyLYDRdTnLSGPChsMZZTnv"
-  "clientSecret": "jKejY1xI9Ck_wj62nEy2Jy-DE0TZlZYwMfasad9JlWny31c,sPiso4m-mobIWiTezw.umFl2UN5fdl7KPBdu1BpU,RbhBZbNmU.pk7avga6D87IqlWg957ehNB_8JNpk"
-  "token": "AstraCS:UHiyLYDRdTnLSGPChsMZZTnv:925847afe2d83a30795d79bc297b2ed3e91cfb121c343513f9ff7756fb8b40fa"
+  "clientID": "NomGYwhtLwdOIngPekjBCmtf"
+  "clientSecret": "Z-pSczgZ3n7MQKMoKKuawrXNG8OdnqqFsce26+xY0JUxxgI+7lpjI1C+lispNawk3.uExhQYsNkevpyJaipLHdCDgHvG5zIppdqd4H,IhJX5sB9UTySZ4+bRTBW,JSJS"
+  "token": "AstraCS:NomGYwhtLwdOIngPekjBCmtf:17d0bbe912690fe021efbeca83344bece254904a0462c6da347f57a331bfa318"
 }
